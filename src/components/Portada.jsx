@@ -12,18 +12,18 @@ const Portada = () => {
   return (
     <>
       <section className="portada">
-        <div className="greetings">
+         <div className="greetings">
+        {/* <span>M</span>
+          <span>D</span>
           <span>J</span>
           <span>A</span>
           <span>J</span>
           <span>A</span>
-          <span>J</span>
-          <span>A</span>
-          <span>J</span>
+          <span>J</span> */}
         </div>
-        <div className="description">
+{        /*<div className="description">
           <span>No se dibujar pero ahi ta</span>
-        </div>
+        </div> */}
         <div className="button">
           <button className="boton">
             <a onClick={handlebutton}>
@@ -65,10 +65,10 @@ const Portada = () => {
 
         <div className="credits">
           <p>&copy; MD </p>
-          <p className="posdata">
+          {/* <p className="posdata">
             posdata: te encargo mi dibujo jajaj <br/>
             y mi pizza xd
-          </p>
+          </p>*/ }
         </div>
       </section>
     </>
