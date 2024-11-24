@@ -21,9 +21,7 @@ Este proyecto es una flor interactiva creada completamente con **HTML y CSS**, p
 )
 
 ### 📱 En móvil  
-![Vista en móvil](![Imagen de WhatsApp 2024-11-23 a las 20 38 34_a19e05a1](https://github.com/user-attachments/assets/1e685e42-430a-4581-a9f3-babbf5a5aeac))
-
-*(Recuerda añadir las capturas de pantalla en la carpeta `screenshots` dentro del proyecto y reemplazar los nombres de archivo si es necesario.)*  
+![Vista en móvil]((https://github.com/user-attachments/assets/1e685e42-430a-4581-a9f3-babbf5a5aeac))
 
 ---
 
